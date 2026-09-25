@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Divyansssssh/Leet/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
+| [0941-valid-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0941-valid-mountain-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyansssssh/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
