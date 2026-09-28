@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Divyansssssh/Leet/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyansssssh/Leet/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyansssssh/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
