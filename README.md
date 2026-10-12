@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Divyansssssh/Leet/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Divyansssssh/Leet/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Divyansssssh/Leet/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/Divyansssssh/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0941-valid-mountain-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Divyansssssh/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansssssh/Leet/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Divyansssssh/Leet/tree/master/1021-remove-outermost-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Divyansssssh/Leet/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
