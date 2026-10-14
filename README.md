@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Divyansssssh/Leet/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Divyansssssh/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Divyansssssh/Leet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyansssssh/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Divyansssssh/Leet/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Divyansssssh/Leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Divyansssssh/Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
