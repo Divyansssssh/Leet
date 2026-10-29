@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divyansssssh/Leet/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Divyansssssh/Leet/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divyansssssh/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Divyansssssh/Leet/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0941-valid-mountain-array) |
