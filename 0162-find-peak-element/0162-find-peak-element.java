@@ -10,7 +10,6 @@ class Solution {
                 j = mid;
             }
         }
-
         return i;
     }
 }
