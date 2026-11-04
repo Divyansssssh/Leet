@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyansssssh/Leet/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Divyansssssh/Leet/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Divyansssssh/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Divyansssssh/Leet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyansssssh/Leet/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansssssh/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Divyansssssh/Leet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Divyansssssh/Leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Divyansssssh/Leet/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Divyansssssh/Leet/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Divyansssssh/Leet/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Divyansssssh/Leet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
