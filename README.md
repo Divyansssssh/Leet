@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Divyansssssh/Leet/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Divyansssssh/Leet/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Divyansssssh/Leet/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Divyansssssh/Leet/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyansssssh/Leet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divyansssssh/Leet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Divyansssssh/Leet/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Divyansssssh/Leet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
