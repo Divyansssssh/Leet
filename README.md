@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyansssssh/Leet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Divyansssssh/Leet/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Divyansssssh/Leet/tree/master/0441-arranging-coins) |
+| [3360-stone-removal-game](https://github.com/Divyansssssh/Leet/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyansssssh/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Divyansssssh/Leet/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/Divyansssssh/Leet/tree/master/3360-stone-removal-game) |
 ## Brainteaser
 |  |
 | ------- |
